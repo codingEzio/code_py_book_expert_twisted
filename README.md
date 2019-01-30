@@ -1,0 +1,8 @@
+### Info
+
+| Title | Author | Publisher | Publish Date | Finished | 
+| :----: | :---- | :----: | :----: |  :----: | :----: | 
+| .. Event-Driven & Async prog with Python | Mark Williams <small>(total: 6)</small>  | Apress | 2019 | ***Not yet*** | 
+
+### Note 
+- Missing chapters itself means that *it was based on the prev one or older ones*.
